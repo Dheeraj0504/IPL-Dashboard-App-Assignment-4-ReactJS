@@ -1,7 +1,7 @@
 In this project, let's build an **IPL Dashboard App** by applying the concepts we have learned till now.
 
 ### Published link:
-https://Dheeraj0521.ccbp.tech
+https://My24IPLApp.ccbp.tech
 
 ### Refer to the image below:
 
